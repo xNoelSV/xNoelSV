@@ -1,9 +1,19 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Saludos👋, soy Noel Sariñena Varela</h1>
+<h3 align="center">Full-Stack developer en varios proyectos personales.</h3>
+
+- 🔭 Actualmente estoy formandome en **Ingeniería Informática**
+
+- 🌱 Actualmente estoy aprendiendo **NodeJS, Express y MongoDB**
+
+- 👨‍💻 Todos mis proyectos están expuestos en [https://portafoliodenoel.netlify.app/](https://portafoliodenoel.netlify.app/)
+
+- 📫 Contáctame **noelsava25@gmail.com**
+
+- 📄 Conóceme más a fondo [https://drive.google.com/file/d/15dmKw8-354qzYJxFvQzGJeQPpM_WtcTj/view?usp=sharing](https://drive.google.com/file/d/15dmKw8-354qzYJxFvQzGJeQPpM_WtcTj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/noel-sariñena-varela-5b08bb262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noel-sariñena-varela-5b08bb262" height="30" width="40" /></a>
-<a href="/https://portafoliodenoel.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://portafoliodenoel.netlify.app/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
