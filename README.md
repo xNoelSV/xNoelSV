@@ -1,7 +1,7 @@
 <h1 align="center">Saludos👋, soy Noel Sariñena Varela</h1>
 <h3 align="center">Full-Stack developer en varios proyectos personales.</h3><br/><br/>
 
-- 🔭 Actualmente estoy formandome en **Ingeniería Informática**
+- 🔭 Actualmente estoy formandome en **Ingeniería Informática** en la universidad **UPF Tecnocampus**
 
 - 🌱 Actualmente estoy aprendiendo **NodeJS, Express y MongoDB** (Proyecto asociado <a href="https://github.com/xNoelSV/API_Rest_NodeJS">aqui</a>)
 
