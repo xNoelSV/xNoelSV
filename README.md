@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy formandome en **Ingeniería Informática**
 
-- 🌱 Actualmente estoy aprendiendo **NodeJS, Express y MongoDB**
+- 🌱 Actualmente estoy aprendiendo **NodeJS, Express y MongoDB** (Proyecto asociado <a href="https://github.com/xNoelSV/API_Rest_NodeJS">aqui</a>)
 
 - 👨‍💻 Todos mis proyectos están expuestos en mi <a href="https://portafoliodenoel.netlify.app/">portafolio</a>
 
