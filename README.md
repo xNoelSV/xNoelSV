@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **NodeJS, Express y MongoDB**
 
-- 👨‍💻 Todos mis proyectos están expuestos en [https://portafoliodenoel.netlify.app/](https://portafoliodenoel.netlify.app/)
+- 👨‍💻 Todos mis proyectos están expuestos en mi <a href="https://portafoliodenoel.netlify.app/">portafolio</a>
 
 - 📫 Contáctame **noelsava25@gmail.com**
 
