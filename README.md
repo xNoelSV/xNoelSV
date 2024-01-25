@@ -9,7 +9,7 @@
 
 - 📫 Contáctame **noelsava25@gmail.com**
 
-- 📄 Conóceme más a fondo [https://drive.google.com/file/d/15dmKw8-354qzYJxFvQzGJeQPpM_WtcTj/view?usp=sharing](https://drive.google.com/file/d/15dmKw8-354qzYJxFvQzGJeQPpM_WtcTj/view?usp=sharing)
+- 📄 Conóceme más a fondo: <a href="https://www.canva.com/design/DAFjpu2KHDw/rCPi95zNFjs4JvYl0wpLnQ/view?utm_content=DAFjpu2KHDw&utm_campaign=designshare&utm_medium=link&utm_source=editor"> Currículum </a>
 
 <h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
