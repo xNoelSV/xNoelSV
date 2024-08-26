@@ -3,7 +3,8 @@
 
 - 🔭 Actualmente estoy formandome en **Ingeniería Informática** en la universidad **UPF Tecnocampus**
 
-- 🌱 Actualmente estoy aprendiendo **React** (Proyecto asociado <a href="https://github.com/xNoelSV/React">aqui</a>)
+- 🌱 Actualmente estoy aprendiendo **Astro** (Proyecto asociado <a href="https://github.com/xNoelSV/Astro">aqui</a>)
+[**React** (Proyecto asociado <a href="https://github.com/xNoelSV/React">aqui</a>)]: #
 
 - 👨‍💻 Todos mis proyectos están expuestos en mi <a href="https://portafoliodenoel.netlify.app/">portafolio</a>
 
