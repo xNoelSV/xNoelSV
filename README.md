@@ -6,7 +6,7 @@
 - 🌱 Actualmente estoy aprendiendo **Astro** (Proyecto asociado <a href="https://github.com/xNoelSV/Astro">aqui</a>) y **Microservicios con Spring** (Proyecto asociado <a href="https://github.com/xNoelSV/Spring-Microservices">aqui</a>)
 <!-- **React** (Proyecto asociado <a href="https://github.com/xNoelSV/React">aqui</a>) -->
 
-- 👨‍💻 Todos mis proyectos están expuestos en mi <a href="https://portafoliodenoel.netlify.app/">portafolio</a>
+- 👨‍💻 Todos mis proyectos están expuestos en mi <a href="https://noelsarinena.dev">portafolio</a>
 
 - 📫 Contáctame **noelsava25@gmail.com**
 
